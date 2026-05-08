@@ -1,0 +1,19 @@
+project_id = "pgkxfznjwvcgaptflnds"
+
+[functions.funnel-track]
+verify_jwt = false
+[functions.webhook-receiver]
+enabled = true
+verify_jwt = false
+[functions.whatsapp-webhook]
+verify_jwt = false
+[functions.pagtrust-webhook]
+verify_jwt = false
+[functions.pagtrust-webhook-2]
+verify_jwt = false
+[functions.submit-form-response]
+verify_jwt = false
+[functions.gateway-criar-cobranca]
+verify_jwt = false
+[functions.gateway-webhook]
+verify_jwt = false
